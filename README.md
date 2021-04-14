@@ -8,3 +8,5 @@ Durante o curso foram trabalhados pontos como:
 * Utilização do Emmet, ferramenta para agilizar a escrita de códigos.
 * Estudo sobre códigos semânticos que ajudam na acessibilidade e SEO.
 * Adaptação de diferentes layouts.
+
+Link: https://brsilvacardoso.github.io/apeperia-alura-bruno/
